@@ -40,6 +40,7 @@ import java.lang.invoke.VarHandle;
 import java.util.concurrent.locks.LockSupport;
 
 /**
+ * 一个可取消的异步计算。
  * A cancellable asynchronous computation.  This class provides a base
  * implementation of {@link Future}, with methods to start and cancel
  * a computation, query to see if the computation is complete, and

@@ -36,6 +36,7 @@
 package java.util.concurrent;
 
 /**
+ * Future代表异步计算的结果。
  * A {@code Future} represents the result of an asynchronous
  * computation.  Methods are provided to check if the computation is
  * complete, to wait for its completion, and to retrieve the result of
