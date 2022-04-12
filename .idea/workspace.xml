@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f664e28b-919c-4207-92b4-e3518f8793e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java/util/concurrent/AbstractExecutorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/util/concurrent/Executor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/util/concurrent/ExecutorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/util/concurrent/Executors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/util/concurrent/ThreadFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/util/concurrent/ThreadPoolExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/util/concurrent/TimeUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/util/concurrent/locks/AbstractOwnableSynchronizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/util/concurrent/locks/Condition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/util/concurrent/locks/Lock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/util/concurrent/locks/ReadWriteLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/util/concurrent/locks/ReentrantLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/util/concurrent/locks/ReentrantReadWriteLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdk11_source_code_test/src/main/java/util/CopyOnWriteArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdk11_source_code_test/src/main/java/util/concurrent/ConcurrentHashMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdk11_source_code_test/src/main/java/util/concurrent/ThreadPoolExecutorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/util/Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/util/Vector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/util/concurrent/Future.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/util/concurrent/Future.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/util/concurrent/FutureTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/util/concurrent/FutureTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leet-code/src/easy/Solution1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leet-code/src/easy/Solution2.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/util/Stack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
